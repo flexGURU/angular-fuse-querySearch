@@ -1,1 +1,50 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+:root {
+    --primary-color: #5f9ea0;
+    --secondary-color: #c9e7c9;
+    --body-text-color: #000000;
+    --navbar-footer-color: #dae8e8;
+    --headings: #008b8b;
+    --white:  #ffffff;;
+
+}
+
+body {
+    font-family: "Oswald", serif;
+    font-size: 24px;
+    color: var(--headings);
+    display: contents;
+    font-weight: 400;
+    background-color: #5f9ea0;
+
+}
+
+
+input[type = search], input[type = text] {
+    height: 50px;
+    padding-left: 20px;
+    font-size: 15px;
+    width: 700px;
+    border-radius: 30px;
+    border-color: var(--headings);
+    margin-top: 50px;
+    color: var(--headings)
+    
+    
+    
+    
+}
+
+.shadow-effect {
+    border: none;
+    box-shadow: 10px 0px 27px -10px #302027;
+    
+}
+
+
+.text-color {
+    color: #000000
+}

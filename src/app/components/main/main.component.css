@@ -1,0 +1,22 @@
+.container {
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    margin: -250px 0 0 -200px;
+    top: 50%;
+    left: 50%;
+
+}
+
+
+.card {
+    cursor: pointer;
+    color: var(--headings);
+    background-color: #e4ddeb;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+}
+
+.card:hover {
+    color: #ffffff; /* Change text color on hover */
+    background-color: #008b8b; /* Change background color to #008b8b on hover */
+}

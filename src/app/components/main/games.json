@@ -1,0 +1,93 @@
+[
+    { 
+      "name": "Minecraft", 
+      "category": "Adventure", 
+      "platform": ["PC", "Console", "Mobile"], 
+      "genre": ["Sandbox", "Survival", "Multiplayer"], 
+      "developer": "Mojang Studios",
+      "releaseYear": 2011,
+      "imgAdd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbWOL6AqgFI9M4eblTENTH_X5OYkzBMpvZA&s"
+    },
+    { 
+      "name": "Need for Speed (NFS)", 
+      "category": "Racing", 
+      "platform": ["PC", "Console"], 
+      "genre": ["Racing", "Action"], 
+      "developer": "Electronic Arts",
+      "releaseYear": 1994,
+      "imgAdd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4Uzmz0sRRixpbowsyleMQfVq_uMZ9JQvYg&s"
+    },
+    { 
+      "name": "Fortnite", 
+      "category": "Battle Royale", 
+      "platform": ["PC", "Console", "Mobile"], 
+      "genre": ["Shooter", "Survival", "Multiplayer"], 
+      "developer": "Epic Games",
+      "releaseYear": 2017,
+      "imgAdd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmG3NjiAt46ed0jMqaUOZNxpP2U_z6IyU2jw&s"
+    },
+    { 
+      "name": "Call of Duty: Warzone", 
+      "category": "Battle Royale", 
+      "platform": ["PC", "Console"], 
+      "genre": ["Shooter", "Multiplayer"], 
+      "developer": "Infinity Ward",
+      "releaseYear": 2020,
+      "imgAdd": "https://upload.wikimedia.org/wikipedia/en/6/65/COD_Warzone_Cover_Art.jpg"
+    },
+    { 
+      "name": "The Legend of Zelda: Breath of the Wild", 
+      "category": "Adventure", 
+      "platform": ["Console"], 
+      "genre": ["Action", "Adventure"], 
+      "developer": "Nintendo",
+      "releaseYear": 2017,
+      "imgAdd": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    { 
+      "name": "Grand Theft Auto V (GTA V)", 
+      "category": "Action", 
+      "platform": ["PC", "Console"], 
+      "genre": ["Action", "Adventure", "Multiplayer"], 
+      "developer": "Rockstar Games",
+      "releaseYear": 2013,
+      "imgAdd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQerEQxNJoPbamxyG-q6usOux4xTqUK3-8lOjphfauZIopHguzY1q0fuHTMVCKf21f2APc&usqp=CAU"
+    },
+    { 
+      "name": "Among Us", 
+      "category": "Party", 
+      "platform": ["PC", "Console", "Mobile"], 
+      "genre": ["Social Deduction", "Multiplayer"], 
+      "developer": "Innersloth",
+      "releaseYear": 2018,
+      "imgAdd": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg"
+    },
+    { 
+      "name": "Cyberpunk 2077", 
+      "category": "RPG", 
+      "platform": ["PC", "Console"], 
+      "genre": ["Action", "RPG", "Open World"], 
+      "developer": "CD Projekt",
+      "releaseYear": 2020,
+      "imgAdd": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5"
+    },
+    { 
+      "name": "The Witcher 3: Wild Hunt", 
+      "category": "RPG", 
+      "platform": ["PC", "Console"], 
+      "genre": ["Action", "RPG", "Open World"], 
+      "developer": "CD Projekt",
+      "releaseYear": 2015,
+      "imgAdd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZRo5hga9GLVnXs6R_4NKlJkuLSocUiCCpX5vW-1TPTAFNxycjFz_8xYYyrp16ed87DU&usqp=CAU"
+    },
+    { 
+      "name": "League of Legends (LoL)", 
+      "category": "MOBA", 
+      "platform": ["PC"], 
+      "genre": ["Multiplayer", "Strategy"], 
+      "developer": "Riot Games",
+      "releaseYear": 2009,
+      "imgAdd": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S2_1200x1600-905a96cea329205358868f5871393042"
+    }
+  ]
+  
